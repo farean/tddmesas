@@ -6,3 +6,6 @@
 
 **/obj/**
 **/bin/**
+
+tests/coverage.json
+tests/lcov.info.info

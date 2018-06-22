@@ -1,0 +1,4 @@
+namespace Mesas.Entities.Enums
+{
+
+}
