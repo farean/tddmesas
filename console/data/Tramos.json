@@ -1,0 +1,47 @@
+{"Tramos":[
+   {
+      "Id": 1,
+      "Code": "CFG",
+      "Description": "CAMPO DE FORMACIÓN GENERAL"
+   },
+   {
+      "Id": 2,
+      "Code": "TFCM",
+      "Description": "CAMPO DE FORMACION ESPECIFICO"
+   },
+   {
+      "Id": 3,
+      "Code": "TFCEAC",
+      "Description": "TRAYECTO DE FORMACIÓN CENTRADO EN LAS ENSEÑANZAS DE LAS ÁREAS CURRICULARES"
+   },
+   {
+      "Id": 4,
+      "Code": "TFO-DI",
+      "Description": "TRAYECTO ORIENTADO EN DISCAPACIDAD INTELECTUAL"
+   },
+   {
+      "Id": 5,
+      "Code": "TFO-SeH",
+      "Description": "TRAYECTO DE FORMACIÓN ORIENTADO EN SORDOS E HIPOACÚSICOS"
+   },
+   {
+      "Id": 6,
+      "Code": "TFO-CyDV",
+      "Description": "TRAYECTO DE FORMACIÓN ORIENTADO EN CIEGOS Y DISMINUIDOS  VISUALES"
+   },
+   {
+      "Id": 7,
+      "Code": "TRAMO 1",
+      "Description": "CAMPO DE LA FORMACIÓN EN LA PRÁCTICA PROFESIONAL"
+   },
+   {
+      "Id": 8,
+      "Code": "TRAMO 2",
+      "Description": "CAMPO DE LA FORMACIÓN EN LA PRÁCTICA PROFESIONAL"
+   },
+   {
+      "Id": 9,
+      "Code": "TRAMO 3",
+      "Description": "CAMPO DE LA FORMACIÓN EN LA PRÁCTICA PROFESIONAL"
+   }
+]}
